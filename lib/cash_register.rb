@@ -45,5 +45,5 @@ class CashRegister
       self.total = total - price
       last = self.total
     end
-binding.pry
+# binding.pry
 end
